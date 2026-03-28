@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 🤖 Swiss Trading Bot — SMI Algorithmic Trading
 
 ## Description
